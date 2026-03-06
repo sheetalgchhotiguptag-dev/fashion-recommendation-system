@@ -30,3 +30,29 @@ Recommended Outfit: Light Summer Dress
 - Use machine learning for smarter recommendations
 - Add image-based outfit suggestion
 - Build a mobile or web interface
+  ## Future Improvements
+- Add AI based outfit image detection
+- Connect with e-commerce platforms
+- Personalized fashion recommendations using ML
+# AI Fashion Recommendation System
+
+This project recommends fashion styles based on user preferences using AI concepts.
+
+## Features
+- Style recommendation
+- Outfit suggestions
+- Color matching
+- AI-based fashion logic
+
+## Tech Used
+- Python
+- Flask
+- Machine Learning
+- AI styling concept
+
+## Future Scope
+- Virtual Try-On
+- AI Interior Styling
+- Smart Wardrobe
+
+Created by Sheetal Gupta
